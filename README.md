@@ -1,6 +1,6 @@
 # Turnuva-Yaratma-Sistemi (v0.6)
 ## Önzös
-Bu uygulama sadece C# uygulamalı öğrenmek için yaptım. Henüz tamamlanmadı fakat şu an olduğu halini Github'a yükleyerek Github'a da giriş yapmak istedim. 
+Bu uygulama sadece C#'ı uygulamalı öğrenmek için yaptım. Henüz tamamlanmadı fakat şu an olduğu halini Github'a yükleyerek Github'a da giriş yapmak istedim. 
 Readme dosyasını türkçe yazıyorum fakat kodlar ve açıklamaları ingilizce. 
 ## Özet
 Turnuva yaratma uygulaması ile küçük toplulukların kendi içlerinde düzenleyeceği turnuvalar yaratabilirsiniz. Takımlar bir veya daha çok kişiden oluşabilir. Müsabaka eleme sistemi kullanılmakta. Örneğin 8 takım var bu takımlar rastgele 2şerli olarak eşleştirilerek maçlar yapılacak. kaybedeb takım elenecek kazana bir üst rounda çıkacak. Takım sayısı eğer 2,4,8,16... sekansında değilse örneğin 14 takım var o zaman 14 ten büyük en küçük sekans elmanı bulunup (16) aradaki  fark kadar(2) takıma "bye" eşlemesi yapılarak maç yapmadan bir üst rounda çıkacak.  
